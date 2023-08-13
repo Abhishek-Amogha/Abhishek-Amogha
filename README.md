@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Researcher/Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://pubs.acs.org/cms/10.1021/acs.jchemed.2c01103/asset/images/acs.jchemed.2c01103.social.jpeg_v03">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpubs.acs.org%2Fdoi%2F10.1021%2Facs.jchemed.2c01103&psig=AOvVaw19Ww2dCWYMBagSKFKmz3j1&ust=1692028034491000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODtleT92YADFQAAAAAdAAAAABAD">
 
 - 📫 How to reach me **abhisheksuresh2003@gmail.com**
 

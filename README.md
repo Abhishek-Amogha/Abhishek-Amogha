@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Researcher/Programmer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudsek.com%2Fblog%2Fwhy-programming-skills-are-essential-for-pen-testers&psig=AOvVaw07-MtHF6NzxNR92GyIyAm9&ust=1692028741366000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCLmLaA2oADFQAAAAAdAAAAABAI">
+<img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/635e632477408d12d1811a64/64062c5a083e545615ea9f2b_Programming-3-1.gif">
 
 - 📫 How to reach me **abhisheksuresh2003@gmail.com**
 

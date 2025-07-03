@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Researcher/Programmer from India</h3>
+<h3 align="center">A passionate Researcher & Programmer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://uploads-ssl.webflow.com/635e632477408d12d1811a64/64062c5a083e545615ea9f2b_Programming-3-1.gif">
 
